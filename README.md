@@ -1,6 +1,7 @@
 To Run the tests, run following commands
 
 `mvn dependency:resolve`
+
 `mvn install`
  
 From intelliJ
